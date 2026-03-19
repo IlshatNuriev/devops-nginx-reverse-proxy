@@ -206,3 +206,4 @@ docker inspect flask_app --format='{{json .State.Health}}'
 
 Ильшат Нуриев
 https://github.com/IlshatNuriev
+# devops-cicd-pipeline
